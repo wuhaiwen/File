@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/actionbar_color</item>
+        <item name="colorPrimaryDark">@color/actionbar_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="my_actionbar_style" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#ffeeff</item>
+    </style>
+
+    <style name="Theme.Start" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@drawable/timg</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+</resources>
